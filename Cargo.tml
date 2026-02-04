@@ -1,2 +1,2 @@
 [dependencies]
-pyo3 = "0.28.0"
+pyo3 = "0.20.3"

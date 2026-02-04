@@ -9,6 +9,7 @@ geo_tool = geo_lookup_tool
 rdap_tool = rdap_lookup_tool
 asn_tool = asn_tool = asn_lookup_tool
 spam_tool = spamhaus_zen_check_tool
+zen_tool = spamhaus_zen_check_tool
 
 enrichment_agent = Agent(
     role="IP Enrichment Analyst",

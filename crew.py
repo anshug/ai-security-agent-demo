@@ -5,10 +5,10 @@ from tools.crewai_wrappers import geo_lookup_tool, rdap_lookup_tool, asn_lookup_
 # CrewAI will use your OpenAI key from env (.env or exported)
 assert os.getenv("OPENAI_API_KEY"), "OPENAI_API_KEY is required"
 
-geo_tool = GeoLookupTool()
-rdap_tool = RDAPLookupTool()
-asn_tool = ASNLookupTool()
-zen_tool = SpamhausZenTool()
+geo_tool = geo_lookup_tool
+rdap_tool = rdap_lookup_tool
+asn_tool = asn_tool = asn_lookup_tool
+spam_tool = spamhaus_zen_check_tool
 
 enrichment_agent = Agent(
     role="IP Enrichment Analyst",

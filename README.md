@@ -133,10 +133,10 @@ This tool was built as part of a full-day hands-on training, "Building an AI Sec
 
 ## About the author
 
-[Anshu Gupta] (https://www.linkedin.com/in/fromanshu/) is Founder and Forward Deployed CISO at Fixin Security, and Founder of Tejas Cyber Network, a global vendor-agnostic cybersecurity community. He is co-author of the AI Security Guide and a 20+ year cybersecurity executive.
+[Anshu Gupta](https://www.linkedin.com/in/fromanshu/) is Founder and Forward Deployed CISO at Fixin Security, and Founder of Tejas Cyber Network, a global vendor-agnostic cybersecurity community. He is co-author of the AI Security Guide and a 20+ year cybersecurity executive.
 
-Questions, collaboration ideas, or want to talk about extending this agent for your environment? Book time here: 
-(https://calendly.com/fixinsecurity/30-minute-consult?month=2026-07)
+Questions, collaboration ideas, or want to talk about extending this agent for your environment? [Book time here:](https://calendly.com/fixinsecurity/30-minute-consult?month=2026-07)
+
 ## License
 
 This project is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See [LICENSE](LICENSE) for details.

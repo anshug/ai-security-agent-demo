@@ -129,7 +129,7 @@ The `check_ip_reputation` pattern in `tools/` is designed as a template. Natural
 
 ## Background
 
-This tool was built as part of a full-day hands-on training, "Building an AI Security Agent from Scratch," and is presented as a live demo at Black Hat Arsenal Europe 2026. The goal is to close the gap between AI agents as theoretical concepts or commercial black boxes, and AI agents as systems security practitioners can design, build, and deploy themselves.
+This tool was built as part of a full-day hands-on training, "Building an AI Security Agent from Scratch". The goal is to close the gap between AI agents as theoretical concepts or commercial black boxes, and AI agents as systems security practitioners can design, build, and deploy themselves.
 
 ## About the author
 

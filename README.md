@@ -4,7 +4,6 @@ An open source, from-scratch AI Security Agent that takes a suspicious IP addres
 
 Built to prove a simple point: you do not need a commercial black box to get agentic security tooling. You can build one yourself, understand every piece of it, and extend it to your own environment.
 
-This project is the companion tool for the Black Hat Arsenal Europe 2026 session and the "Building an AI Security Agent from Scratch" full-day training by Anshu Gupta.
 
 ## What it does
 
@@ -129,7 +128,7 @@ The `check_ip_reputation` pattern in `tools/` is designed as a template. Natural
 
 ## Background
 
-This tool was built as part of a full-day hands-on training, "Building an AI Security Agent from Scratch". The goal is to close the gap between AI agents as theoretical concepts or commercial black boxes, and AI agents as systems security practitioners can design, build, and deploy themselves.
+The goal is to close the gap between AI agents as theoretical concepts or commercial black boxes, and AI agents as systems security practitioners can design, build, and deploy themselves.
 
 ## About the author
 
